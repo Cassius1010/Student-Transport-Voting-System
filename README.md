@@ -32,4 +32,17 @@ The application follows a layered approach:
 ## ▶️ How to Run
 1. Install Java 17
 2. Download JavaFX 17 SDK
-3. Configure VM arguments:
+3. Configure VM arguments
+     4. Run the `Main` class
+
+## 📄 Future Improvements
+- Persistent storage (file or database)
+- Admin dashboard for viewing results
+- Improved UI styling with CSS
+- Input validation and error handlingRun the `Main` class
+
+## 📄 Future Improvements
+- Persistent storage (file or database)
+- Admin dashboard for viewing results
+- Improved UI styling with CSS
+- Input validation and error handling
